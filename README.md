@@ -2,7 +2,6 @@
 
 ## 🔹 3. Java-OOP-Assignment → `README.md`
 
-```markdown
 # 📝 Java OOP Assignments
 
 ![Language](https://img.shields.io/badge/language-Java-orange)
